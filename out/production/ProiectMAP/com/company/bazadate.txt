@@ -1,0 +1,7 @@
+6
+1,George Marian,1,4,20,7000,100
+2,Ana Maria,3,4,25,5000,0
+3,Ciolan Vasile,30,12,64,6000,50
+4,Anca Grigore,7,1,64,5500,0
+5,Nicolai Cioban,2,4,65,8000,0
+6,Anca Andreica,1,1,64,6000,200
